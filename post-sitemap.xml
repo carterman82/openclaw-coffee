@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://crema.reggaefancast.com/</loc>
-		<lastmod>2026-07-21T17:04:56+00:00</lastmod>
+		<lastmod>2026-07-21T20:24:04+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://crema.reggaefancast.com/2026/07/17/pour-over-filter-rinsing-extraction-variable/</loc>
@@ -65,6 +65,20 @@
 		<lastmod>2026-07-21T17:04:56+00:00</lastmod>
 		<image:image>
 			<image:loc>https://crema.reggaefancast.com/wp-content/uploads/sites/5/2026/07/roasting-not-color-game-chemical-stress-test-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://crema.reggaefancast.com/2026/07/21/vietnamese-robusta-brewing-phin-protocol/</loc>
+		<lastmod>2026-07-21T19:36:42+00:00</lastmod>
+		<image:image>
+			<image:loc>https://crema.reggaefancast.com/wp-content/uploads/sites/5/2026/07/vietnamese-robusta-brewing-phin-protocol-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://crema.reggaefancast.com/2026/07/21/pour-over-grind-too-fine-dripper-fault/</loc>
+		<lastmod>2026-07-21T20:24:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://crema.reggaefancast.com/wp-content/uploads/sites/5/2026/07/pour-over-grind-too-fine-dripper-fault-featured.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
