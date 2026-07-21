@@ -3,6 +3,6 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://crema.reggaefancast.com/sitemap_index.xml
+Sitemap: https://coffee.info-verse.org/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK
