@@ -1,56 +1,70 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.reggaefancast.com/openclaw-coffee/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://crema.reggaefancast.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/</loc>
-		<lastmod>2026-07-19T21:11:31+00:00</lastmod>
+		<loc>https://crema.reggaefancast.com/</loc>
+		<lastmod>2026-07-21T17:04:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/2026/07/17/pour-over-filter-rinsing-extraction-variable/</loc>
+		<loc>https://crema.reggaefancast.com/2026/07/17/pour-over-filter-rinsing-extraction-variable/</loc>
 		<lastmod>2026-07-19T21:11:29+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.reggaefancast.com/openclaw-coffee/wp-content/uploads/sites/5/2026/07/pour-over-filter-rinsing-extraction-variable-featured.png</image:loc>
+			<image:loc>https://crema.reggaefancast.com/wp-content/uploads/sites/5/2026/07/pour-over-filter-rinsing-extraction-variable-featured.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/2026/07/15/burr-alignment-grinder-spec/</loc>
+		<loc>https://crema.reggaefancast.com/2026/07/15/burr-alignment-grinder-spec/</loc>
 		<lastmod>2026-07-19T21:11:30+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.reggaefancast.com/openclaw-coffee/wp-content/uploads/sites/5/2026/07/burr-alignment-grinder-spec-featured.png</image:loc>
+			<image:loc>https://crema.reggaefancast.com/wp-content/uploads/sites/5/2026/07/burr-alignment-grinder-spec-featured.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/2026/07/16/crema-problem-espresso-looks-perfect-tastes-sour/</loc>
+		<loc>https://crema.reggaefancast.com/2026/07/16/crema-problem-espresso-looks-perfect-tastes-sour/</loc>
 		<lastmod>2026-07-19T21:11:30+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.reggaefancast.com/openclaw-coffee/wp-content/uploads/sites/5/2026/07/crema-problem-espresso-looks-perfect-tastes-sour-featured.png</image:loc>
+			<image:loc>https://crema.reggaefancast.com/wp-content/uploads/sites/5/2026/07/crema-problem-espresso-looks-perfect-tastes-sour-featured.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/2026/07/16/ethiopian-natural-anaerobic-processing-difference/</loc>
+		<loc>https://crema.reggaefancast.com/2026/07/16/ethiopian-natural-anaerobic-processing-difference/</loc>
 		<lastmod>2026-07-19T21:11:30+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.reggaefancast.com/openclaw-coffee/wp-content/uploads/sites/5/2026/07/ethiopian-natural-anaerobic-processing-difference-featured.png</image:loc>
+			<image:loc>https://crema.reggaefancast.com/wp-content/uploads/sites/5/2026/07/ethiopian-natural-anaerobic-processing-difference-featured.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/2026/07/16/v60-filter-paper-extraction-variable-2/</loc>
+		<loc>https://crema.reggaefancast.com/2026/07/16/v60-filter-paper-extraction-variable-2/</loc>
 		<lastmod>2026-07-19T21:11:30+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.reggaefancast.com/openclaw-coffee/wp-content/uploads/sites/5/2026/07/v60-filter-paper-extraction-variable-featured-1.png</image:loc>
+			<image:loc>https://crema.reggaefancast.com/wp-content/uploads/sites/5/2026/07/v60-filter-paper-extraction-variable-featured-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/2026/07/15/brew-ratio-extraction-pour-over/</loc>
+		<loc>https://crema.reggaefancast.com/2026/07/15/brew-ratio-extraction-pour-over/</loc>
 		<lastmod>2026-07-19T21:11:31+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.reggaefancast.com/openclaw-coffee/wp-content/uploads/sites/5/2026/07/brew-ratio-extraction-pour-over-featured.png</image:loc>
+			<image:loc>https://crema.reggaefancast.com/wp-content/uploads/sites/5/2026/07/brew-ratio-extraction-pour-over-featured.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/2026/07/15/hario-switch-dual-path-design-immersion/</loc>
+		<loc>https://crema.reggaefancast.com/2026/07/15/hario-switch-dual-path-design-immersion/</loc>
 		<lastmod>2026-07-19T21:11:31+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.reggaefancast.com/openclaw-coffee/wp-content/uploads/sites/5/2026/07/hario-switch-dual-path-design-immersion-featured.png</image:loc>
+			<image:loc>https://crema.reggaefancast.com/wp-content/uploads/sites/5/2026/07/hario-switch-dual-path-design-immersion-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://crema.reggaefancast.com/2026/07/21/wet-hulled-processing-brewing-protocol/</loc>
+		<lastmod>2026-07-21T14:09:50+00:00</lastmod>
+		<image:image>
+			<image:loc>https://crema.reggaefancast.com/wp-content/uploads/sites/5/2026/07/wet-hulled-processing-brewing-protocol-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://crema.reggaefancast.com/2026/07/21/roasting-not-color-game-chemical-stress-test/</loc>
+		<lastmod>2026-07-21T17:04:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://crema.reggaefancast.com/wp-content/uploads/sites/5/2026/07/roasting-not-color-game-chemical-stress-test-featured.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

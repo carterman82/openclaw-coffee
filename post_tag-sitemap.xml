@@ -1,124 +1,156 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.reggaefancast.com/openclaw-coffee/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://crema.reggaefancast.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/anaerobic/</loc>
+		<loc>https://crema.reggaefancast.com/tag/agtron/</loc>
+		<lastmod>2026-07-21T17:04:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://crema.reggaefancast.com/tag/anaerobic/</loc>
 		<lastmod>2026-07-19T21:11:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/brew-ratio/</loc>
+		<loc>https://crema.reggaefancast.com/tag/brew-ratio/</loc>
 		<lastmod>2026-07-19T21:11:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/brewer-comparison/</loc>
+		<loc>https://crema.reggaefancast.com/tag/brewer-comparison/</loc>
 		<lastmod>2026-07-19T21:11:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/burr-alignment/</loc>
+		<loc>https://crema.reggaefancast.com/tag/burr-alignment/</loc>
 		<lastmod>2026-07-19T21:11:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/bypass/</loc>
+		<loc>https://crema.reggaefancast.com/tag/bypass/</loc>
 		<lastmod>2026-07-19T21:11:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/crema/</loc>
+		<loc>https://crema.reggaefancast.com/tag/crema/</loc>
 		<lastmod>2026-07-19T21:11:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/dialing-in/</loc>
+		<loc>https://crema.reggaefancast.com/tag/development-time/</loc>
+		<lastmod>2026-07-21T17:04:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://crema.reggaefancast.com/tag/dialing-in/</loc>
 		<lastmod>2026-07-19T21:11:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/equipment/</loc>
+		<loc>https://crema.reggaefancast.com/tag/equipment/</loc>
 		<lastmod>2026-07-19T21:11:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/espresso/</loc>
+		<loc>https://crema.reggaefancast.com/tag/espresso/</loc>
 		<lastmod>2026-07-19T21:11:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/ethiopian/</loc>
+		<loc>https://crema.reggaefancast.com/tag/ethiopian/</loc>
 		<lastmod>2026-07-19T21:11:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/extraction/</loc>
-		<lastmod>2026-07-19T21:11:31+00:00</lastmod>
+		<loc>https://crema.reggaefancast.com/tag/extraction/</loc>
+		<lastmod>2026-07-21T14:09:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/filter/</loc>
+		<loc>https://crema.reggaefancast.com/tag/filter/</loc>
 		<lastmod>2026-07-19T21:11:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/filter-paper/</loc>
+		<loc>https://crema.reggaefancast.com/tag/filter-paper/</loc>
 		<lastmod>2026-07-19T21:11:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/flat-bottom-filter/</loc>
+		<loc>https://crema.reggaefancast.com/tag/first-crack/</loc>
+		<lastmod>2026-07-21T17:04:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://crema.reggaefancast.com/tag/flat-bottom-filter/</loc>
 		<lastmod>2026-07-19T21:11:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/grind-quality/</loc>
+		<loc>https://crema.reggaefancast.com/tag/giling-basah/</loc>
+		<lastmod>2026-07-21T14:09:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://crema.reggaefancast.com/tag/grind-quality/</loc>
 		<lastmod>2026-07-19T21:11:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/grind-size/</loc>
+		<loc>https://crema.reggaefancast.com/tag/grind-size/</loc>
 		<lastmod>2026-07-19T21:11:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/grinder/</loc>
+		<loc>https://crema.reggaefancast.com/tag/grinder/</loc>
 		<lastmod>2026-07-19T21:11:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/hario/</loc>
+		<loc>https://crema.reggaefancast.com/tag/hario/</loc>
 		<lastmod>2026-07-19T21:11:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/hario-switch/</loc>
+		<loc>https://crema.reggaefancast.com/tag/hario-switch/</loc>
 		<lastmod>2026-07-19T21:11:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/hybrid-extraction/</loc>
+		<loc>https://crema.reggaefancast.com/tag/home-roasting/</loc>
+		<lastmod>2026-07-21T17:04:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://crema.reggaefancast.com/tag/hybrid-extraction/</loc>
 		<lastmod>2026-07-19T21:11:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/immersion-brewing/</loc>
+		<loc>https://crema.reggaefancast.com/tag/immersion-brewing/</loc>
 		<lastmod>2026-07-19T21:11:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/natural/</loc>
+		<loc>https://crema.reggaefancast.com/tag/natural/</loc>
 		<lastmod>2026-07-19T21:11:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/origin/</loc>
+		<loc>https://crema.reggaefancast.com/tag/origin/</loc>
 		<lastmod>2026-07-19T21:11:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/paper/</loc>
+		<loc>https://crema.reggaefancast.com/tag/paper/</loc>
 		<lastmod>2026-07-19T21:11:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/pour-over/</loc>
+		<loc>https://crema.reggaefancast.com/tag/pour-over/</loc>
 		<lastmod>2026-07-19T21:11:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/processing/</loc>
+		<loc>https://crema.reggaefancast.com/tag/processing/</loc>
 		<lastmod>2026-07-19T21:11:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/rinsing/</loc>
+		<loc>https://crema.reggaefancast.com/tag/processing-method/</loc>
+		<lastmod>2026-07-21T14:09:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://crema.reggaefancast.com/tag/pyrolysis/</loc>
+		<lastmod>2026-07-21T17:04:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://crema.reggaefancast.com/tag/rinsing/</loc>
 		<lastmod>2026-07-19T21:11:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/thickness/</loc>
+		<loc>https://crema.reggaefancast.com/tag/thickness/</loc>
 		<lastmod>2026-07-19T21:11:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/under-extraction/</loc>
+		<loc>https://crema.reggaefancast.com/tag/under-extraction/</loc>
 		<lastmod>2026-07-19T21:11:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-coffee/tag/v60/</loc>
+		<loc>https://crema.reggaefancast.com/tag/v60/</loc>
 		<lastmod>2026-07-19T21:11:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://crema.reggaefancast.com/tag/wet-hulled/</loc>
+		<lastmod>2026-07-21T14:09:50+00:00</lastmod>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
