@@ -17,6 +17,7 @@
 	<meta property="og:description" content="Crema is a home-brewing guide for serious hobbyists: pour-over, espresso, and grinder technique explained for leveling up your coffee.">
 	<meta property="og:url" content="https://coffee.info-verse.org/">
 	<meta property="og:site_name" content="Coffee Info Verse">
+	<meta property="og:image" content="https://coffee.info-verse.org/wp-content/uploads/sites/5/2026/07/coffee-homepage-og.png">
 	<meta name="twitter:card" content="summary_large_image">
 	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://coffee.info-verse.org/","url":"https://coffee.info-verse.org/page/2/","name":"Coffee Info Verse - Page 2 of 2 - Home brewing, examined at cup level.","isPartOf":{"@id":"https://coffee.info-verse.org/#website"},"description":"Crema is a home-brewing guide for serious hobbyists: pour-over, espresso, and grinder technique explained for leveling up your coffee.","breadcrumb":{"@id":"https://coffee.info-verse.org/page/2/#breadcrumb"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://coffee.info-verse.org/page/2/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://coffee.info-verse.org/#website","url":"https://coffee.info-verse.org/","name":"Coffee Info Verse","description":"Home brewing, examined at cup level.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://coffee.info-verse.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"}]}</script>
 	<!-- / Yoast SEO plugin. -->
@@ -174,7 +175,10 @@ ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:
             margin: 0;
             display: flex;
             flex-wrap: wrap;
-            gap: 32px;
+            column-gap: 32px;
+            row-gap: 0;
+            max-height: 92px;
+            overflow: hidden;
         }
         .openclaw-category-nav .wp-block-categories li a {
             color: var(--wp--preset--color--openclaw-text);
@@ -183,8 +187,10 @@ ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:
             font-weight: 500;
             text-transform: uppercase;
             letter-spacing: 0.05em;
+            line-height: 16px;
             padding: 14px 0;
             display: inline-block;
+            white-space: nowrap;
         }
         .openclaw-category-nav .wp-block-categories li a:hover {
             color: var(--wp--preset--color--openclaw-primary);
