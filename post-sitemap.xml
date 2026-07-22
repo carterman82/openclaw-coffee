@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://coffee.info-verse.org/</loc>
-		<lastmod>2026-07-22T00:25:24+00:00</lastmod>
+		<lastmod>2026-07-22T01:46:36+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://coffee.info-verse.org/2026/07/17/pour-over-filter-rinsing-extraction-variable/</loc>
@@ -86,6 +86,13 @@
 		<lastmod>2026-07-22T00:25:24+00:00</lastmod>
 		<image:image>
 			<image:loc>https://coffee.info-verse.org/wp-content/uploads/sites/5/2026/07/kenyan-aa-brewing-extraction-protocol-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://coffee.info-verse.org/2026/07/22/espresso-grinder-dead-zone-burr-alignment/</loc>
+		<lastmod>2026-07-22T01:46:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://coffee.info-verse.org/wp-content/uploads/sites/5/2026/07/espresso-grinder-dead-zone-burr-alignment-featured.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
