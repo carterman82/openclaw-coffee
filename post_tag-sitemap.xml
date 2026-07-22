@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://coffee.info-verse.org/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://coffee.info-verse.org/tag/acidity/</loc>
+		<lastmod>2026-07-22T00:25:24+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://coffee.info-verse.org/tag/agtron/</loc>
 		<lastmod>2026-07-21T17:04:56+00:00</lastmod>
 	</url>
@@ -15,6 +19,10 @@
 	<url>
 		<loc>https://coffee.info-verse.org/tag/brewer-comparison/</loc>
 		<lastmod>2026-07-19T21:11:31+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://coffee.info-verse.org/tag/brewing-protocol/</loc>
+		<lastmod>2026-07-22T00:25:24+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://coffee.info-verse.org/tag/brewing-methods/</loc>
@@ -39,6 +47,10 @@
 	<url>
 		<loc>https://coffee.info-verse.org/tag/dialing-in/</loc>
 		<lastmod>2026-07-19T21:11:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://coffee.info-verse.org/tag/double-fermentation/</loc>
+		<lastmod>2026-07-22T00:25:24+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://coffee.info-verse.org/tag/equipment/</loc>
@@ -101,6 +113,10 @@
 		<lastmod>2026-07-19T21:11:31+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://coffee.info-verse.org/tag/high-altitude/</loc>
+		<lastmod>2026-07-22T00:25:24+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://coffee.info-verse.org/tag/home-brewing/</loc>
 		<lastmod>2026-07-21T20:24:04+00:00</lastmod>
 	</url>
@@ -115,6 +131,10 @@
 	<url>
 		<loc>https://coffee.info-verse.org/tag/immersion-brewing/</loc>
 		<lastmod>2026-07-19T21:11:31+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://coffee.info-verse.org/tag/kenyan-aa/</loc>
+		<lastmod>2026-07-22T00:25:24+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://coffee.info-verse.org/tag/natural/</loc>
