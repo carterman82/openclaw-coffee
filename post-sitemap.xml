@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://coffee.info-verse.org/</loc>
-		<lastmod>2026-07-27T01:32:27+00:00</lastmod>
+		<lastmod>2026-07-30T00:41:36+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://coffee.info-verse.org/2026/07/17/pour-over-filter-rinsing-extraction-variable/</loc>
@@ -170,6 +170,62 @@
 		<lastmod>2026-07-27T01:32:27+00:00</lastmod>
 		<image:image>
 			<image:loc>https://coffee.info-verse.org/wp-content/uploads/sites/5/2026/07/bypass-dilution-pour-over-math-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://coffee.info-verse.org/2026/07/27/ikawa-home-single-batch-roasting-dial-in/</loc>
+		<lastmod>2026-07-27T14:30:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://coffee.info-verse.org/wp-content/uploads/sites/5/2026/07/ikawa-home-single-batch-roasting-dial-in-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://coffee.info-verse.org/2026/07/27/sr900-agitation-vs-ikawa-consistency/</loc>
+		<lastmod>2026-07-27T19:28:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://coffee.info-verse.org/wp-content/uploads/sites/5/2026/07/sr900-agitation-vs-ikawa-consistency-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://coffee.info-verse.org/2026/07/28/ikawa-home-roaster-thermal-stress-test/</loc>
+		<lastmod>2026-07-28T13:31:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://coffee.info-verse.org/wp-content/uploads/sites/5/2026/07/ikawa-home-roaster-thermal-stress-test-featured.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://coffee.info-verse.org/2026/07/28/ethiopian-guji-high-altitude-shift-yirgacheffe/</loc>
+		<lastmod>2026-07-28T18:33:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://coffee.info-verse.org/wp-content/uploads/sites/5/2026/07/ethiopian-guji-high-altitude-shift-yirgacheffe-featured.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://coffee.info-verse.org/2026/07/29/ikawa-thermal-lag-dry-phase/</loc>
+		<lastmod>2026-07-29T00:29:01+00:00</lastmod>
+		<image:image>
+			<image:loc>https://coffee.info-verse.org/wp-content/uploads/sites/5/2026/07/ikawa-thermal-lag-dry-phase-featured.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://coffee.info-verse.org/2026/07/29/titanium-drippers-vs-ceramic-thermal-mass/</loc>
+		<lastmod>2026-07-29T13:25:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://coffee.info-verse.org/wp-content/uploads/sites/5/2026/07/titanium-drippers-vs-ceramic-thermal-mass-featured.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://coffee.info-verse.org/2026/07/29/kissaten-blueprint-japanese-coffee-culture/</loc>
+		<lastmod>2026-07-29T18:25:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://coffee.info-verse.org/wp-content/uploads/sites/5/2026/07/kissaten-blueprint-japanese-coffee-culture-featured.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://coffee.info-verse.org/2026/07/30/canephora-not-robusta-genetic-category/</loc>
+		<lastmod>2026-07-30T00:41:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://coffee.info-verse.org/wp-content/uploads/sites/5/2026/07/canephora-not-robusta-genetic-category-featured.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
