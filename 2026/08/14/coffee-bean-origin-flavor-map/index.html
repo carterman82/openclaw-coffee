@@ -316,10 +316,10 @@ ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:
         <section class="openclaw-crosslink">
 <h2 class="openclaw-crosslink-heading">From other Info Verse sites</h2>
 <ul class="openclaw-crosslink-list">
-<li><a href="https://techtools.info-verse.org/2026/08/15/andesite-create-critical-path-modded-servers/" rel="noopener">Andesite Create: The Critical Path That Decides Modded Server Performance</a></li>
-<li><a href="https://gardening.info-verse.org/2026/08/15/fiddle-leaf-fig-brown-spots-sunburn-fungal-diagnostic/" rel="noopener">Fiddle Leaf Fig Brown Spots: The Geometry of the Damage</a></li>
-<li><a href="https://dogs.info-verse.org/2026/08/15/brachycephalic-obstructive-airway-syndrome/" rel="noopener">Brachycephalic Obstructive Airway Syndrome: The 4 Components of the Squeeze</a></li>
-<li><a href="https://boardgames.info-verse.org/2026/08/15/machikoro-kingdomino-deck-building-gateway/" rel="noopener">Machi Koro vs. Kingdomino: Why Deck-Building Beats Tile-Drafting for Strategy</a></li>
+<li><a href="https://techtools.info-verse.org/2026/08/15/20-percent-rule-business-acquisition/" rel="noopener">The 20% Rule That Decides When a Boomer Business Is Worth Buying</a></li>
+<li><a href="https://gardening.info-verse.org/2026/08/16/lavender-humid-climates-root-rot-drainage/" rel="noopener">Lavender in Humid Climates: The 3:1 Drainage Rule That Saves It</a></li>
+<li><a href="https://dogs.info-verse.org/2026/08/16/dog-staring-grass-eating-medical-threshold/" rel="noopener">Your Dog&rsquo;s Staring and Grass Eating Aren&rsquo;t Weird. They&rsquo;re Signals.</a></li>
+<li><a href="https://boardgames.info-verse.org/2026/08/16/kingdomino-spatial-planning-over-luck/" rel="noopener">Kingdomino: The Domino Chain That Rewards Spatial Planning Over Luck</a></li>
 </ul>
 </section>
 
@@ -455,7 +455,40 @@ ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:
 
 </footer>
 </div>
-<script id="wp-block-template-skip-link-js-after">
+<script>
+(function () {
+    if (typeof gtag !== 'function') { return; }
+
+    document.addEventListener('submit', function (e) {
+        if (e.target.closest && e.target.closest('.openclaw-newsletter-form')) {
+            gtag('event', 'newsletter_submit');
+        }
+    });
+
+    document.addEventListener('click', function (e) {
+        var shareLink = e.target.closest('.openclaw-share-bar a[aria-label]');
+        if (shareLink) {
+            gtag('event', 'share_click', {
+                platform: shareLink.getAttribute('aria-label').replace(/^Share on /, '')
+            });
+            return;
+        }
+        var copyBtn = e.target.closest('.openclaw-share-bar button[aria-label]');
+        if (copyBtn) {
+            gtag('event', 'share_click', { platform: copyBtn.getAttribute('aria-label') });
+            return;
+        }
+        if (e.target.closest('.openclaw-crosslink-list a')) {
+            gtag('event', 'crosslink_click');
+            return;
+        }
+        if (e.target.closest('.openclaw-related-card')) {
+            gtag('event', 'related_post_click');
+        }
+    });
+})();
+</script>
+    <script id="wp-block-template-skip-link-js-after">
 	( function() {
 		var skipLinkTarget = document.querySelector( 'main' ),
 			sibling,
