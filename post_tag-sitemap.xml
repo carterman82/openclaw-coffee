@@ -54,7 +54,7 @@
 	</url>
 	<url>
 		<loc>https://coffee.info-verse.org/tag/beginner/</loc>
-		<lastmod>2026-08-15T13:35:55+00:00</lastmod>
+		<lastmod>2026-08-18T13:37:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://coffee.info-verse.org/tag/brew-ratio-2/</loc>
@@ -246,11 +246,11 @@
 	</url>
 	<url>
 		<loc>https://coffee.info-verse.org/tag/equipment/</loc>
-		<lastmod>2026-07-19T21:11:30+00:00</lastmod>
+		<lastmod>2026-08-18T13:37:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://coffee.info-verse.org/tag/espresso/</loc>
-		<lastmod>2026-08-14T13:45:14+00:00</lastmod>
+		<lastmod>2026-08-18T13:37:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://coffee.info-verse.org/tag/espresso-geometry/</loc>
@@ -398,7 +398,7 @@
 	</url>
 	<url>
 		<loc>https://coffee.info-verse.org/tag/grinder/</loc>
-		<lastmod>2026-08-09T18:31:39+00:00</lastmod>
+		<lastmod>2026-08-18T13:37:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://coffee.info-verse.org/tag/guji/</loc>
@@ -659,6 +659,10 @@
 	<url>
 		<loc>https://coffee.info-verse.org/tag/sensory-perception/</loc>
 		<lastmod>2026-08-06T00:40:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://coffee.info-verse.org/tag/setup/</loc>
+		<lastmod>2026-08-18T13:37:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://coffee.info-verse.org/tag/single-batch/</loc>

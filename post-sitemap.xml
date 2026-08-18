@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://coffee.info-verse.org/</loc>
-		<lastmod>2026-08-18T00:37:15+00:00</lastmod>
+		<lastmod>2026-08-18T13:37:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://coffee.info-verse.org/2026/07/17/pour-over-filter-rinsing-extraction-variable/</loc>
@@ -457,6 +457,13 @@
 		<lastmod>2026-08-18T00:37:15+00:00</lastmod>
 		<image:image>
 			<image:loc>https://coffee.info-verse.org/wp-content/uploads/sites/5/2026/08/why-espresso-foamy-bitter-co2-degassing-timeline-featured.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://coffee.info-verse.org/2026/08/18/best-entry-level-espresso-setup-grinder-bottleneck/</loc>
+		<lastmod>2026-08-18T13:37:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://coffee.info-verse.org/wp-content/uploads/sites/5/2026/08/best-entry-level-espresso-setup-grinder-bottleneck-featured.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
