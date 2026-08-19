@@ -74,7 +74,7 @@
 	</url>
 	<url>
 		<loc>https://coffee.info-verse.org/tag/brewing-protocol/</loc>
-		<lastmod>2026-08-18T18:36:35+00:00</lastmod>
+		<lastmod>2026-08-19T13:42:54+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://coffee.info-verse.org/tag/brewing-water/</loc>
@@ -529,6 +529,10 @@
 		<lastmod>2026-08-08T18:44:53+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://coffee.info-verse.org/tag/loose-leaf/</loc>
+		<lastmod>2026-08-19T13:42:54+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://coffee.info-verse.org/tag/machine/</loc>
 		<lastmod>2026-08-13T18:45:17+00:00</lastmod>
 	</url>
@@ -729,6 +733,10 @@
 		<lastmod>2026-07-30T20:06:28+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://coffee.info-verse.org/tag/steep-time/</loc>
+		<lastmod>2026-08-19T13:42:54+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://coffee.info-verse.org/tag/stirring/</loc>
 		<lastmod>2026-07-31T00:53:02+00:00</lastmod>
 	</url>
@@ -755,6 +763,10 @@
 	<url>
 		<loc>https://coffee.info-verse.org/tag/tds/</loc>
 		<lastmod>2026-07-27T01:32:27+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://coffee.info-verse.org/tag/tea-ratio/</loc>
+		<lastmod>2026-08-19T13:42:54+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://coffee.info-verse.org/tag/temperature/</loc>
@@ -815,6 +827,10 @@
 	<url>
 		<loc>https://coffee.info-verse.org/tag/water-chemistry/</loc>
 		<lastmod>2026-08-13T00:35:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://coffee.info-verse.org/tag/water-temperature/</loc>
+		<lastmod>2026-08-19T13:42:54+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://coffee.info-verse.org/tag/water-coffee-ratio/</loc>
